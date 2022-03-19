@@ -155,7 +155,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- DEMO -->
 ## Demo
 
-A live [Demo](observatorium-ironhack.netlify.app/) is available.
+A live [Demo](https://observatorium-ironhack.netlify.app/) is available.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
