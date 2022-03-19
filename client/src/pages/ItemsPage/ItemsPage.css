@@ -1,0 +1,34 @@
+.topContainer {
+    position: absolute;
+    width: 95%;
+    height: 30%;
+    top: 0;
+    left: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    padding-top: 15%;
+    z-index: 99;
+}
+
+.createCardButton {
+    background-color: orange;
+    border: none;
+    margin-left: 20px;
+}
+
+.createCardButton:hover {
+    background-color: rgb(255, 190, 68);
+}
+
+
+.itemsPageModal {
+    background-color: rgb(48, 48, 48);
+    color: white
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

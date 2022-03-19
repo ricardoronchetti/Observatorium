@@ -1,0 +1,78 @@
+.topContainer {
+  position: absolute;
+  width: 95%;
+  height: 30%;
+  top: 0;
+  left: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  padding-top: 11%;
+  z-index: 99;
+}
+
+.capital{
+  font-size: 30px;
+  color: white;
+}
+
+.logo {
+  margin: 100px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 80px;
+}
+ 
+.marsSlogan {
+  margin: 0;
+  color:white;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: -170px;
+}
+  
+.paragraph {
+  margin: 0;
+  margin-top: 3em;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 500;
+  max-width: 30%;
+  text-align: center;
+}
+ 
+.planet-button {
+  outline: none;
+  border: none;
+  background-color: #27b927;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 8px 2em;
+  margin-top: 3em;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 350ms ease-in-out;
+}
+
+.planet-button:hover {
+    background-color: transparent;
+    border: 2px solid #27b927;
+}
+ 
+.made-by {
+  color: #fff;
+  position: fixed;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
